@@ -7,12 +7,20 @@ public class Test1
 	{
 		System.out.println("FOr Otp Purpose");
 	}
+	
 	public void m1()
 	{
 		System.out.println("m1");
 	}
+
     public void m3()
     {
     	System.out.println("m2 method is Created");
     }
+
+	
+	public void m2()
+	{
+		System.out.println("m2 method is created");
+	}
 }
